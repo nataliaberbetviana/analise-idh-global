@@ -82,6 +82,8 @@ Este trabalho foi desenvolvido como **projeto de acompanhamento do curso ADA + A
 │   ├── relacao_escolaridade_IDH.png
 │   └── relacao_PIB_IDH.png
 │
+├── 📄 analise_dados.md                             # Análise detalhada dos resultados│
+│
 └── 📄 README.md                                   # Você está aqui! 😊
 ```
 
